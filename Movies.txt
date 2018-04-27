@@ -1,0 +1,30 @@
+Matrix 
+Sci-fi 
+1999 
+Keanu Reeves - Neo 
+Carrie-Anne Moss - Trinity 
+Laurence Fishburne - Morpheus 
+Troja  
+Krigsfilm  
+2004 
+Brad Pitt - Achilleus 
+Orlando Bloom - Prins Paris 
+Eric Bana - Hektor 
+Pirates of the Caribbean - Dead mans chest 
+Adventure 
+2006 
+Johnny Depp - Jack Sparrow 
+Keira Knightley - Elizabeth Swann 
+Orlando Bloom - Will Turner 
+StarWars  
+Sci-fi 
+1977 
+Mark Hamill - Luke Skywalker 
+Carrie Fisher - Prinsesse Leia 
+Harrison Ford - Han Solo 
+Lord of the Rings - Fellowship of the Ring 
+Fantasy 
+2001 
+Viggo Mortensen - Aragorn 
+Elijah Wood - Frodo 
+Orlando Bloom - Legolas 
